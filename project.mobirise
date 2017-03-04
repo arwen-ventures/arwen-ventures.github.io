@@ -1,0 +1,235 @@
+{
+  "settings": {
+    "name": "Arwen Ventures",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#b8312f",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#b8312f",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      }
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/logo-arwen-128x128.png",
+    "noImageResize": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "google-analytics": "",
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 4,
+    "versionPublish": "3.12.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader3",
+          "_anchor": "extHeader3-0",
+          "_params": {
+            "iconsColor": "#ffffff",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/arwen-ventures-landing-page-2000x1334.png",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showIcons": true,
+            "showTitles": true,
+            "showArrow": true
+          },
+          "title": "MAKING DREAMS COME TRUE",
+          "text": "Do not think that there is any other quality so essential to success of any kind&nbsp;as&nbsp;the quality of perseverance. It overcomes almost everything, even nature.<br>= John D. Rockefeller =",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#form1-1\" data-toolbar=\"-mbrBtnMove\">TELL YOUR STORY</a>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "http://www.chaletflex.com",
+              "size": 0,
+              "color": "#ffffff",
+              "newWindow": true
+            }
+          },
+          "title1": "<a href=\"http://www.chaletflex.com\" target=\"_blank\" class=\"text-white\">ChaletFlex</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "gift",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "http://www.ekitat.com",
+              "size": 0,
+              "color": "#ffffff",
+              "newWindow": true
+            }
+          },
+          "title2": "<a href=\"http://www.ekitat.com\" target=\"_blank\" class=\"text-white\">Ekitat</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "lock",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "http://www.trasterox.com",
+              "size": 0,
+              "color": "#ffffff",
+              "newWindow": true
+            }
+          },
+          "title3": "<a href=\"http://www.trasterox.com\" target=\"_blank\" class=\"text-white\">Trasterox</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "idea",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "index.html#form1-1",
+              "size": 0,
+              "color": "#ffffff",
+              "newWindow": false
+            }
+          },
+          "title4": "<a href=\"index.html#form1-1\" class=\"text-white\">What else ?</a>",
+          "_styles": {
+            ".etl-icon": {
+              "color": "#ffffff !important",
+              "border-color": "#ffffff"
+            },
+            ".features-list i": {
+              "color": "#ffffff !important",
+              "border-color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "form1-1",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showSubTitle": false
+          },
+          "title": "CONTACT FORM",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "form": {
+            "action": "arturo@post.harvard.edu",
+            "alerts": {
+              "success": "Thanks for telling us your story. We will contact you shortly!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND</a>"
+        }
+      ]
+    },
+    "privacy.html": {
+      "settings": {
+        "title": "Web Builder Title",
+        "meta_descr": "Web Builder Description"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Cookie Policy for ARWEN VENTURES SL</span><br></p><p><br></p><p>What Are Cookies</p><p><br></p><p>As is common practice with almost all professional websites this site uses cookies, which are tiny files that are downloaded to your computer, to improve your experience. This page describes what information they gather, how we use it and why we sometimes need to store these cookies. We will also share how you can prevent these cookies from being stored however this may downgrade or 'break' certain elements of the sites functionality.</p><p><br></p><p>For more general information on cookies see the <a href=\"https://en.wikipedia.org/wiki/HTTP_cookie\" target=\"_blank\">Wikipedia article on HTTP Cookies</a>.</p><p><br></p><p>How We Use Cookies</p><p><br></p><p>We use cookies for a variety of reasons detailed below. Unfortunately in most cases there are no industry standard options for disabling cookies without completely disabling the functionality and features they add to this site. It is recommended that you leave on all cookies if you are not sure whether you need them or not in case they are used to provide a service that you use.</p><p><br></p><p>Disabling Cookies</p><p><br></p><p>You can prevent the setting of cookies by adjusting the settings on your browser (see your browser Help for how to do this). Be aware that disabling cookies will affect the functionality of this and many other websites that you visit. Disabling cookies will usually result in also disabling certain functionality and features of the this site. Therefore it is recommended that you do not disable cookies.</p><p><br></p><p>The Cookies We Set</p><p><br></p><p>When you submit data to through a form such as those found on contact pages or comment forms cookies may be set to remember your user details for future correspondence.</p><p><br></p><p>Third Party Cookies</p><p><br></p><p>In some special cases we also use cookies provided by trusted third parties. The following section details which third party cookies you might encounter through this site.</p><p><br></p><p>This site uses Google Analytics which is one of the most widespread and trusted analytics solution on the web for helping us to understand how you use the site and ways that we can improve your experience. These cookies may track things such as how long you spend on the site and the pages that you visit so we can continue to produce engaging content.</p><p><br></p><p>For more information on Google Analytics cookies, see the official <a href=\"https://www.google.es/intl/es/analytics/\" target=\"_blank\">Google Analytics page</a>.</p><p><br></p><p>More Information</p><p><br></p><p>Hopefully that has clarified things for you and as was previously mentioned if there is something that you aren't sure whether you need or not it's usually safer to leave cookies enabled in case it does interact with one of the features you use on our site. However if you are still looking for more information then you can contact us through one of our preferred contact methods.</p><p><br></p><p>Email: info@arwenventures.com</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">BACK</a> "
+        }
+      ]
+    }
+  }
+}
