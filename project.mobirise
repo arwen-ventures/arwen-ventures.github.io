@@ -26,8 +26,9 @@
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "google-analytics": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 4,
-    "versionPublish": "3.12.1"
+    "uniqCompNum": 5,
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -88,13 +89,13 @@
               "name": "home",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "http://www.chaletflex.com",
-              "size": 0,
+              "link": "",
+              "size": 83,
               "color": "#ffffff",
               "newWindow": true
             }
           },
-          "title1": "<a href=\"http://www.chaletflex.com\" target=\"_blank\" class=\"text-white\">ChaletFlex</a>",
+          "title1": "ChaletFlex",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
@@ -102,13 +103,13 @@
               "name": "gift",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "http://www.ekitat.com",
-              "size": 0,
+              "link": "",
+              "size": 83,
               "color": "#ffffff",
               "newWindow": true
             }
           },
-          "title2": "<a href=\"http://www.ekitat.com\" target=\"_blank\" class=\"text-white\">Ekitat</a>",
+          "title2": "Ekitat",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
@@ -116,13 +117,13 @@
               "name": "lock",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "http://www.trasterox.com",
-              "size": 0,
+              "link": "",
+              "size": "83",
               "color": "#ffffff",
               "newWindow": true
             }
           },
-          "title3": "<a href=\"http://www.trasterox.com\" target=\"_blank\" class=\"text-white\">Trasterox</a>",
+          "title3": "Trasterox",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
